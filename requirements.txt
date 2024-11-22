@@ -1,0 +1,7 @@
+ipykernel
+pandas
+torchvision
+torch
+numpy
+pillow
+kaggle
