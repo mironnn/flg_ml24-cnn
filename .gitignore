@@ -3,3 +3,4 @@ flg-ml-24-cnn
 .DS_Store
 *.pth
 __pycache__
+*.zip
