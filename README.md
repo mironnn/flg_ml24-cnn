@@ -14,4 +14,5 @@ pip install -r requirements.txt
 
 ```bash
 kaggle competitions download -c flg-ml-24-cnn
+kaggle competitions submit -c flg-ml-24-cnn -f ./working/submission.csv -m "test submit by API v2"
 ```
